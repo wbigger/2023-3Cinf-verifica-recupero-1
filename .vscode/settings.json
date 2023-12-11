@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.gs": "javascript",
+        "math.h": "c",
+        "perimetro.h": "c"
+    },
+    "extensions.ignoreRecommendations": true,
+}
